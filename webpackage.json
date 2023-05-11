@@ -1,7 +1,7 @@
 {
     "name":"svySample",
     "displayName":"Samples",
-    "packageType": "Solution",
+    "packageType": "Solution-Main",
     "icon": "https://raw.githubusercontent.com/Servoy/servoy-extra-components/master/servoy.png",
     "invertIcon": true,
     "description": "Sample solutions for the Servoy Platform",
