@@ -8,6 +8,6 @@
     "wikiUrl": "https://github.com/Servoy/svySample/wiki",
     "sourceUrl" : "https://github.com/Servoy/svySample",
     "releases" : [        
-        {"version": "1.0.0","url": "https://github.com/Servoy/svySample/releases/download/1.0.0/svySample.servoy","servoy-version":"2023.3.0"},
+        {"version": "1.0.0","url": "https://github.com/Servoy/svySample/releases/download/1.0.0/svySample.servoy","servoy-version":"2023.3"},
      ]
 }
