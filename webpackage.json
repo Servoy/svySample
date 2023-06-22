@@ -1,10 +1,10 @@
 {
-    "name":"svySample",
-    "displayName":"Samples",
+    "name":"components",
+    "displayName":"Component Samples",
     "packageType": "Solution-Main",
     "icon": "https://raw.githubusercontent.com/Servoy/servoy-extra-components/master/servoy.png",
     "invertIcon": true,
-    "description": "Sample solutions for the Servoy Platform",
+    "description": "Sample solutions demonstrating components for the Servoy Platform",
     "wikiUrl": "https://github.com/Servoy/svySample/wiki",
     "sourceUrl" : "https://github.com/Servoy/svySample",
     "releases" : [        
