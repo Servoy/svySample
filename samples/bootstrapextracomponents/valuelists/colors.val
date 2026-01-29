@@ -1,0 +1,13 @@
+{
+    "addEmptyValue":1,
+    "customValues":"primary\
+info\
+success\
+warning\
+danger",
+    "displayValueType":12,
+    "name":"colors",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"F9F45946-2DFC-42DC-BBEE-A8F43F3FF451"
+}

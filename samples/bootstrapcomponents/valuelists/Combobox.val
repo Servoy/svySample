@@ -1,0 +1,22 @@
+{
+    "customProperties":{
+        "lazyLoading":false
+    },
+    "customValues":"VICKY\
+BOGDAN 1\
+BOGDAN 2\
+BOGDAN 3\
+MARIO\
+MARIUS\
+RAZVAN\
+ENRICO\
+VICTOR\
+TUAN\
+ANA",
+    "displayValueType":12,
+    "name":"Combobox",
+    "realValueType":12,
+    "separator":" ,",
+    "typeid":34,
+    "uuid":"910B5B08-1C38-421E-9B43-F5025FB6FBFE"
+}

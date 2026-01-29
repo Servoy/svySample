@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/aggridcomponents"/>
+	<buildpathentry exported="true" kind="prj" path="/bootstrapcomponents"/>
+	<buildpathentry exported="true" kind="prj" path="/bootstrapextracomponents"/>
+	<buildpathentry exported="true" kind="prj" path="/googlemaps"/>
+	<buildpathentry exported="true" kind="prj" path="/plugins"/>
+	<buildpathentry exported="true" kind="prj" path="/servoyextracomponents"/>
+	<buildpathentry exported="true" kind="prj" path="/svychartjs"/>
+	<buildpathentry exported="true" kind="prj" path="/svykeylistener"/>
+</buildpath>

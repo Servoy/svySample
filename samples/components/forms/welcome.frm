@@ -1,0 +1,81 @@
+{
+    "customProperties":{
+        "formComponent":false,
+        "useCssPosition":true
+    },
+    "encapsulation":108,
+    "items":[
+        {
+            "cssPosition":"5,-1,5,20,977,80",
+            "json":{
+                "cssPosition":{
+                    "bottom":"5",
+                    "height":"80",
+                    "left":"20",
+                    "right":"-1",
+                    "top":"5",
+                    "width":"977"
+                },
+                "media":"0A9D0952-C14C-4A58-BB70-27D1AE7FFD98"
+            },
+            "name":"image_1",
+            "typeName":"bootstrapcomponents-imagemedia",
+            "typeid":47,
+            "uuid":"06CAFDD8-EC3B-493B-B9DC-103BFCC0F424"
+        },
+        {
+            "cssPosition":"400,-1,-1,583,93,30",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"30",
+                    "left":"583",
+                    "right":"-1",
+                    "top":"400",
+                    "width":"93"
+                },
+                "onActionMethodID":"FAB70A4F-ED5E-4237-9E4B-204FF8E99554",
+                "styleClass":"btn btn-default start_here_btn",
+                "text":"Start Here"
+            },
+            "name":"button_2",
+            "styleClass":"btn btn-default start_here_btn",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"0C22A87A-B2FB-4917-96E0-D7E39EA5D85A"
+        },
+        {
+            "cssPosition":"400,-1,-1,686,161,30",
+            "json":{
+                "cssPosition":{
+                    "bottom":"-1",
+                    "height":"30",
+                    "left":"686",
+                    "right":"-1",
+                    "top":"400",
+                    "width":"161"
+                },
+                "onActionMethodID":"AB9EC93D-DCF0-468E-A428-701306BCDB71",
+                "styleClass":"btn btn-default start_here_reverse_btn",
+                "text":"Go to Documentation"
+            },
+            "name":"button_2c",
+            "styleClass":"btn btn-default start_here_reverse_btn",
+            "typeName":"bootstrapcomponents-button",
+            "typeid":47,
+            "uuid":"6D7A43E4-3F1A-4352-9E2D-37A60DE4FFE3"
+        },
+        {
+            "height":480,
+            "partType":5,
+            "typeid":19,
+            "uuid":"CCB95864-1E8C-4171-A058-91FEDE5CF0DE"
+        }
+    ],
+    "name":"welcome",
+    "navigatorID":"-1",
+    "showInMenu":true,
+    "size":"1000,480",
+    "typeid":3,
+    "uuid":"C53567E9-0E12-4DFD-8C0C-6FD61A92DD3A"
+}

@@ -1,0 +1,121 @@
+[
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"components.less",
+    "typeid":37,
+    "uuid":"080981E5-7717-4C65-9786-2BB9373890A2"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"components_ng2.less",
+    "typeid":37,
+    "uuid":"48BD6517-6E5E-45FF-AF63-DD35B5C8FE28"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"custom_servoy_theme_properties.less",
+    "typeid":37,
+    "uuid":"D1791D72-5621-4F58-AB9B-3682607ADE35"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"custom_servoy_theme_properties_ng2.less",
+    "typeid":37,
+    "uuid":"2D9904D6-4883-4AD4-BBA2-94C2E405FF89"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Black.ttf",
+    "typeid":37,
+    "uuid":"B79F0670-F895-425B-8CD8-506BACE891FE"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Bold.ttf",
+    "typeid":37,
+    "uuid":"CAF3C1AC-787D-4676-A49C-982FFD960D07"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-ExtraBold.ttf",
+    "typeid":37,
+    "uuid":"8F1D4C5E-6D36-406C-A300-BC8524B3744D"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-ExtraLight.ttf",
+    "typeid":37,
+    "uuid":"DE935E00-920C-4846-976C-3353FCC09B0C"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Light.ttf",
+    "typeid":37,
+    "uuid":"C0932BAC-92A6-4DA2-B5EC-9A0601D79881"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Medium.ttf",
+    "typeid":37,
+    "uuid":"21F75C08-5B48-42D9-AE25-2BAD0CF98DA9"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Regular.ttf",
+    "typeid":37,
+    "uuid":"31F31576-DA8C-43CD-8A2B-6347BBC8F5D9"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-SemiBold.ttf",
+    "typeid":37,
+    "uuid":"0AF6E633-4FE5-48DB-92C5-CEC19427E577"
+},
+{
+    "encapsulation":0,
+    "mimeType":"application/x-font-ttf",
+    "name":"fonts/Outfit-Thin.ttf",
+    "typeid":37,
+    "uuid":"932FDF53-4AF9-43B6-B4F6-FDCADACCA6AF"
+},
+{
+    "encapsulation":0,
+    "mimeType":"image/png",
+    "name":"logo.png",
+    "typeid":37,
+    "uuid":"9D815BEC-8A7B-421C-AC8A-2A88DC8A0451"
+},
+{
+    "encapsulation":0,
+    "mimeType":"image/jpeg",
+    "name":"P1051981.jpg",
+    "typeid":37,
+    "uuid":"4D750634-09DA-44E5-A217-8C317FE7B085"
+},
+{
+    "encapsulation":0,
+    "mimeType":"text/css",
+    "name":"variants.json",
+    "typeid":37,
+    "uuid":"A3CAC60D-965C-493A-8651-7BD9EDB0DDBD"
+},
+{
+    "encapsulation":0,
+    "mimeType":"image/png",
+    "name":"welcome.png",
+    "typeid":37,
+    "uuid":"0A9D0952-C14C-4A58-BB70-27D1AE7FFD98"
+}
+]

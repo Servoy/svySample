@@ -1,0 +1,12 @@
+{
+    "addEmptyValue":1,
+    "customValues":"mini\
+small\
+normal\
+large",
+    "displayValueType":12,
+    "name":"change_size",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"E349C6BE-48C6-4B95-822A-E01E60007FAC"
+}

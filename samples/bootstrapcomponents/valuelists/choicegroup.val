@@ -1,0 +1,11 @@
+{
+    "addEmptyValue":1,
+    "customValues":"alpha\
+beta\
+gamma",
+    "displayValueType":12,
+    "name":"choicegroup",
+    "realValueType":12,
+    "typeid":34,
+    "uuid":"EAA8FC05-9ACA-4AB9-B0D2-21628983D599"
+}
