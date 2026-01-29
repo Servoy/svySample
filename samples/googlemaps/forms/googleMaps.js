@@ -1,12 +1,12 @@
 /**
  * @type {String}
  *
- * @properties={"typeid":35,"uuid":"608C4040-732A-41D0-97ED-DBE9C55626A3"}
+ * @properties={typeid:35,uuid:"608C4040-732A-41D0-97ED-DBE9C55626A3"}
  */
-var apiKEY = "AIzaSyA7RMaQ7oTmVV1KAnnlEdvt7KXpHSykHF4";
+var apiKEY = "";
 
 /**
- * @properties={"typeid":35,"uuid":"78A307AE-63FB-4795-B7F4-4FA36EDAF6F0","variableType":-4}
+ * @properties={typeid:35,uuid:"78A307AE-63FB-4795-B7F4-4FA36EDAF6F0",variableType:-4}
  */
 var routeDetails = null;
 
